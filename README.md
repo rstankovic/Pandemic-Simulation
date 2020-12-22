@@ -1,2 +1,3 @@
 # Pandemic-Simulation
-quick exercise in simulations using the pandemic as inspiration
+quick exercise in simulations using the pandemic as inspiration.
+*This will be using OOP as this will allow for more dynamics such as social dynamics and individuals*
